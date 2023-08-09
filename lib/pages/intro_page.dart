@@ -21,7 +21,6 @@ class IntroPage extends StatelessWidget {
                 child: Image.asset(
                     'assets/images/logo.jpg',
                   height: 240,
-                  width: 25,
                 ),
               ),
 
